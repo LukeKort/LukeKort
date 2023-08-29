@@ -21,10 +21,6 @@ Meu nome é Lucas, sou formando em engenharia mecânica e mestrando em Modelagem
 - 🔭 Trabalho com Inteligência Artificial e Otimização, no Matlab e principalmente Python, tendo publicado alguns trabalhos nessas áreas.
 Tenho grande interesse pessoal em tecnologia e estou sempre pesquisando e aprendendo um pouco de tudo.
 
-- 🌱 No momento estou trabalhando com Machine Learning e suas aplicações na engenharia
+- 🌱 No momento estou trabalhando com dinâmica e vibrações na engenharia de perfuração
 
 - 🗃 Em meus repositórios eu compartilho as ferramentas desenvolvidas para auxiliar nos meus estudos
-
-- 👯 Estou sempre tentando tornas ferramentas simples de usar e busco ajuda principalmente em criar GUI e distribuir aplicativo
-
-- 📫 Posso ser contato no twitter em http://linktr.ee/lucaskort
