@@ -9,7 +9,7 @@ PhD candidate in Mechanical Engineering with a strong background in computationa
 💻 **Skills & Technologies**:
 - Mathematical and physical modeling
 - Numerical simulation (FEM, FDM)
-- Python, MATLAB
+- Python, MATLAB, Fortran
 - Machine Learning (Scikit-learn, TensorFlow)
 - Signal processing and time-series analysis
 - Reduced-order modeling (POD, DMD)
