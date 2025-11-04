@@ -1,26 +1,15 @@
-### Olá 👋
+🎓 **Mechanical Engineer | Computational Modeling Researcher | Machine Learning for Engineering Systems**
 
-<!--
-**LukeKort/LukeKort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PhD candidate in Mechanical Engineering with a strong background in computational modeling, numerical simulation, data analysis, and machine learning applied to complex physical systems.
 
-Here are some ideas to get you started:
+🔬 **Current Research**: Developing simulation models for offshore drilling dynamics, focusing on coiled tubing behavior on floating platforms. Project aligned with Oil & Gas industry challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📊 **PhD Thesis**: Exploring data-driven modeling techniques, emphasizing reduced-order modeling and Dynamic Mode Decomposition (DMD) to enable faster and more efficient simulations of mechanical systems.
 
-
-Meu nome é Lucas, sou formando em engenharia mecânica e mestrando em Modelagem Computacional em Ciência de Tecnologia.
-
-- 🔭 Trabalho com Inteligência Artificial e Otimização, no Matlab e principalmente Python, tendo publicado alguns trabalhos nessas áreas.
-Tenho grande interesse pessoal em tecnologia e estou sempre pesquisando e aprendendo um pouco de tudo.
-
-- 🌱 No momento estou trabalhando com dinâmica e vibrações na engenharia de perfuração
-
-- 🗃 Em meus repositórios eu compartilho as ferramentas desenvolvidas para auxiliar nos meus estudos
+💻 **Skills & Technologies**:
+- Mathematical and physical modeling
+- Numerical simulation (FEM, FDM)
+- Python, MATLAB
+- Machine Learning (Scikit-learn, TensorFlow)
+- Signal processing and time-series analysis
+- Reduced-order modeling (POD, DMD)
