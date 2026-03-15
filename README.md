@@ -11,7 +11,7 @@ I build physics‑informed computational tools and data‑driven models to under
 
 * 📊 **PhD Thesis**: Exploring data-driven modeling techniques, emphasizing reduced-order modeling and Dynamic Mode Decomposition (DMD) to enable faster and more efficient simulations of mechanical systems.
   
-* 🌎 Based in Brazil, collaborating with academia & industry in Oil & Ga
+* 🌎 Based in Brazil, collaborating with academia & industry in Oil & Gas
 
 # 💻 **Skills & Technologies**:
 - Mathematical and physical modeling
