@@ -25,6 +25,6 @@ I build physics‑informed computational tools and data‑driven models to under
 
 ### 💽 Miranda — Offshore Drilling Simulation Software
 A physics‑based simulation tool for modeling drill pipe and coiled tubing behavior on floating platforms.
-Tech: Python, numerical modeling, mechanical simulation
+Tech: Python, Fortran, numerical modeling, mechanical simulation
 📺 Demo: Watch on YouTube
 
